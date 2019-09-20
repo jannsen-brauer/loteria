@@ -162,7 +162,7 @@ class Loteria
      * Obtem o valor de $jogos
      *
      * @return array
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function getJogos() : array
     {
@@ -174,7 +174,7 @@ class Loteria
      *
      * @param array $jogos
      * @return void
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function setJogos(array $jogos)
     {
@@ -185,7 +185,7 @@ class Loteria
      * Obtem o valor de $totalJogos
      *
      * @return int
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function getTotalJogos() : int
     {
@@ -195,7 +195,7 @@ class Loteria
     /**
      * Atribui o valor para $totalJogos
      * @return void
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function setTotalJogos(int $totalJogos)
     {
@@ -206,7 +206,7 @@ class Loteria
      * Obtem o valor de $resultado
      *
      * @return array
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function getResultado() : array
     {
@@ -216,7 +216,7 @@ class Loteria
     /**
      * Atribui o valor para $resultado
      * @return void
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function setResultado(array $resultado)
     {
@@ -227,7 +227,7 @@ class Loteria
      * Obtem o valor de $quantidadeDezenas
      *
      * @return int
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function getQuantidadeDezenas() : int
     {
@@ -237,7 +237,7 @@ class Loteria
     /**
      * Atribui o valor para $quantidadeDezenas
      * @return void
-     * @author Jannsen <jannsen.bgo@gdax.com.br>
+     * @author Jannsen <jannsen.bgo@gmail.com>
      */
     public function setQuantidadeDezenas(int $quantidadeDezenas)
     {
